@@ -1,5 +1,5 @@
-CREATE DATABASE nomeDaTabela;
-USE nomeDaTabela;
+CREATE DATABASE nomeDoBanco;
+USE nomeDoBanco;
 
 CREATE TABLE itens (
  id INT PRIMARY KEY NOT NULL,
