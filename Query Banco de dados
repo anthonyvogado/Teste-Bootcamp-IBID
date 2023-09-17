@@ -1,0 +1,7 @@
+CREATE DATABASE nomeDaTabela;
+USE nomeDaTabela;
+
+CREATE TABLE itens (
+ id INT PRIMARY KEY NOT NULL,
+ nome VARCHAR(50) NOT NULL
+)
